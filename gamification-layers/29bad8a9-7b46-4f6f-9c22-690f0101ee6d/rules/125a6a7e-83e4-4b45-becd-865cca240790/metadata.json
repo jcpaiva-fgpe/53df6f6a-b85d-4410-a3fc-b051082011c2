@@ -1,0 +1,1 @@
+{"id":"125a6a7e-83e4-4b45-becd-865cca240790","name":"[R-BADGE] Hardworker","triggers":[],"criteria":{"conditions":[{"order":0,"left_entity":"PLAYER","left_property":"$.submissions.length","comparing_function":"GREAT_OR_EQUAL","right_entity":"FIXED","right_property":"20"}],"junctors":["AND"]},"actions":[{"type":"GIVE","parameters":["6351eb88-007d-4e5c-a3a3-8d740337c8da"]}]}
